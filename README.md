@@ -28,3 +28,5 @@ npm start
 ```
 
 ## Demo
+
+[Link to demo video](https://drive.google.com/file/d/1CFq6KZ0NpNP7ovDCI2CadddI82DBe1rG/view)
